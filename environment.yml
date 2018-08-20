@@ -1,0 +1,22 @@
+
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - math
+  - re
+  - glob
+  - collections
+  - sklearn
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
+    - seaborn
+    - bs4
+    - trueskill
+    
+    
