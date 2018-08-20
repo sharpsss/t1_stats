@@ -14,8 +14,6 @@ dependencies:
     - seaborn
     - bs4
     - trueskill
-
-    - glob
     - collections
     - sklearn
     
