@@ -5,7 +5,6 @@ channels:
 dependencies:
   - python
   - numpy
-  - re
 
   - pip:
     - nbgitpuller
