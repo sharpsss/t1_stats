@@ -6,10 +6,7 @@ dependencies:
   - python
   - numpy
   - math
-  - re
-  - glob
-  - collections
-  - sklearn
+
   - pip:
     - nbgitpuller
     - sphinx-gallery
@@ -18,5 +15,9 @@ dependencies:
     - seaborn
     - bs4
     - trueskill
+    - re
+    - glob
+    - collections
+    - sklearn
     
     
