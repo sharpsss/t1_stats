@@ -1,0 +1,14 @@
+numpy==1.13.1
+matplotlib==2.0.2 
+seaborn==0.8.1
+
+
+
+import math
+from bs4 import BeautifulSoup
+import re
+import pandas as pd
+import glob
+import trueskill as ts
+import matplotlib.pyplot as plt
+from collections import Counter
