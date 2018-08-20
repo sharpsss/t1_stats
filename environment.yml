@@ -5,13 +5,14 @@ channels:
 dependencies:
   - python
   - numpy
-  - math
+
 
   - pip:
     - nbgitpuller
     - sphinx-gallery
     - pandas
     - matplotlib
+    - math
     - seaborn
     - bs4
     - trueskill
